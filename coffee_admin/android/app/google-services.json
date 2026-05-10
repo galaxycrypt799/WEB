@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "123456789",
+    "project_id": "coffee-pizza-admin",
+    "storage_bucket": "coffee-pizza-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcd1234efgh5679",
+        "android_client_info": {
+          "package_name": "com.example.coffee_admin",
+          "certificate_hash": "abcd1234"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForLocal1234567891"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
