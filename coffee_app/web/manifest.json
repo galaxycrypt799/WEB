@@ -1,0 +1,35 @@
+{
+    "name": "Roast & Ritual",
+    "short_name": "Roast",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F1E4D2",
+    "theme_color": "#4A2C22",
+    "description": "Coffee app rebuild with a warmer cafe-inspired UI.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
